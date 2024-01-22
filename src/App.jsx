@@ -151,3 +151,10 @@ export default function App() {
     </Container>
   </>);
 }
+
+
+/* 
+URL de la api https://www.weatherapi.com/
+
+
+*/
